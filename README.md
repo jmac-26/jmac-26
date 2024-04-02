@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Im currently learning the ins and outs of Github.
 
 <!--
 **jmac-26/jmac-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
